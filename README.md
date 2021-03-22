@@ -1,4 +1,4 @@
-### Hi there 👋, I'm <a href="https://github.com/adityapriyadarshi669">Aditya</a>
+### Hi there 👋, I'm <a href="https://github.com/adityapriyadarshi669">Aditya</a>, You can also call me Foxy
 
 - 🔭 I’m currently working on <a href ="https://github.com/adityapriyadarshi669/DopeShop">DopeShop</a>
 - 🌱 I’m currently learning Advance Django
