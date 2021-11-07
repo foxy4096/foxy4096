@@ -1,16 +1,9 @@
-### Hi there 👋,
+[![Social banner for jh3y](https://user-images.githubusercontent.com/54215788/140648015-449b6b89-adae-4b9f-9b47-c5beb65be658.jpg)](https://foxy4096)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Aditya.
+</p>
+<p align='center'>For enquiries, reach out @foxy4096 or over on <a href="https://foxy4096.github.io">Website</a>.</p>
 
-- 🔭 I’m currently working on <a href ="https://github.com/foxy4096">Nothing</a>
-- 🌱 I’m currently learning Advance Django
-- ⚡ Fun fact: I love Foxes🦊
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
-
-
-
-My dev.to [Profile](https://dev.to/foxy4096)
-
-
-
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxy4096)
+<h1 align='center'><i>Stay awesome!</i></h1>
+<img src="https://camo.githubusercontent.com/82ae23bf8acd562506d98c9c694db142804a333ea18096a5a5e43f71ddc4cef7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666f787934303936">
