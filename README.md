@@ -1,4 +1,5 @@
-[![Social banner for jh3y](https://user-images.githubusercontent.com/54215788/140648015-449b6b89-adae-4b9f-9b47-c5beb65be658.jpg)](https://foxy4096)
+[<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/54215788/140648015-449b6b89-adae-4b9f-9b47-c5beb65be658.jpg" alt="Social banner.">
+](https://foxy4096)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Aditya.
