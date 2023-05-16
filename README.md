@@ -10,5 +10,5 @@ I love Python and Django
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 <p align="center">
-<img style="border-radius: 50px;" src="https://camo.githubusercontent.com/82ae23bf8acd562506d98c9c694db142804a333ea18096a5a5e43f71ddc4cef7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666f787934303936">
+<img style="border-radius: 50px;" src="https://github-readme-stats.vercel.app/api?username=foxy4096&show_icons=true&theme=transparent">
 </p>
