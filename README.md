@@ -2,7 +2,7 @@
 ](https://foxy4096)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Aditya.
+I'm Aed.
   <br>
 I love Python and Django
 </p>
