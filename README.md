@@ -1,4 +1,4 @@
-[<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/54215788/140648015-449b6b89-adae-4b9f-9b47-c5beb65be658.jpg" alt="Social banner.">
+[<img style="border-radius: 50%;" src="https://github.com/foxy4096/foxy4096/assets/54215788/bb620597-dd20-474b-9308-b9cf5c1c8324" alt="Social banner.">
 ](https://foxy4096)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
