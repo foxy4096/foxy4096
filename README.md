@@ -1,8 +1,8 @@
-[<img style="border-radius: 50%;" src="https://github.com/foxy4096/foxy4096/assets/54215788/bb620597-dd20-474b-9308-b9cf5c1c8324" alt="Social banner.">
-](https://foxy4096)
+![140648015-449b6b89-adae-4b9f-9b47-c5beb65be658](https://github.com/foxy4096/foxy4096/assets/54215788/362d2be0-25fa-41e0-a001-69c22d3662e9)
+
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Aed.
+I'm Aditya
   <br>
 I love Python and Django
 </p>
