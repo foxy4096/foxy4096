@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Aditya
+I'm <b>Aditya</b>
   <br>
 I love Python and Django
 </p>
